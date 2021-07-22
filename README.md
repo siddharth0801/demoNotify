@@ -1,1 +1,1 @@
-This is just a demo Repo for test the notification settings of GitHub.
+This is just a demo Repo for testing the notification settings of GitHub.
